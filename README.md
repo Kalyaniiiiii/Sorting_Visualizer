@@ -8,7 +8,8 @@ Implemented algorithms:
 3) Insertion sort
 4) Merge sort
 5) Quick sort
-6) Heap sort
+
+A web application for visualizing multiple sorting algorithms. Implementation includes: Bubble Sort, Merge Sort, Quick Sort, and Insertion Sort with the functionality of size and speed control. 
 
 Features:
 1) Colored representation of step being executed.
@@ -21,5 +22,3 @@ Features:
   2.2) Data size ()
   2.3) Generation of new data (Randomly generate new data).
 4) Time and Space complexity of algorithm being visualized.
-
-Take a look at live version: https://kethantummala.github.io/Sorting_Visualizer/
